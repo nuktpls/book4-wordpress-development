@@ -20,32 +20,32 @@ Global General unit ruler em rem px
 
 Iniciar Estilos da Marca
 
-logo padding, margin n positions n bgs
+Logo padding, margin n positions n bgs
 
-brand color scss vars
+Brand color scss vars
 
-font family scss vars
+Font family scss vars
 
-$font-family-sans-serif = Martel Sans
+Font family sans serif = Martel Sans
 
-$font-family-monospace = SFMono-Regular
+Font family monospace = SFMono Regular
 
-hr scss
+HR scss
 
-shadow fx vars scss
+Shadow fx vars scss
 
-buttons scss
+Buttons scss
 
-columns bootstrap
+Columns bootstrap
 
-fonts, p, h$, a, cite, buttons: size, weight line-height, color, hover attrs, escape i18n sanityze string
+Fonts, p, h$, a, cite, buttons: size, weight line-height, color, hover attrs, escape i18n sanityze string
 
-btns: global btn env, global btn env 2,
+Buttons: global btn env, global btn env 2,
 
-btns: global btn 3, global btn 4, read more,
+Buttons: global btn 3, global btn 4, read more,
 
-btns: main menu btn, cta, instantly call
+Buttons: main menu btn, cta, instantly call
 
-export all x@.png/jpg, svg
+Export all x@.png/jpg, svg
 
 Sprites

@@ -1,5 +1,5 @@
 ---
-name: "Ordem geral"
+name: "Pages::Páginas"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,76 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Pages::Páginas
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Páginas
 
-front-end card scss
+Páginas importantes (URL)
+
+- Login
+- Dashboard
+- Service Page
+- Client Request Services
+- Contact Page
+- Profile
+- My Documents
+
+## Page: login
+
+cookie acceptance
+
+fone mask
+
+cpf mask
+
+aceite de termos
+
+enviar
+
+cadastrar
+
+erros de cadastro
+
+fale conosco
+
+terms modal
+
+## Page: Dashboard
+
+header
+
+main services
+
+service card (main card)
+
+## Page: Página de Serviço
+
+showcase three columns
+
+## Page: Client Request Services
+
+custom header (header greater height)
+
+main two columns product page
+
+request insurance app
+
+## Page: Contact Page
+
+main two columns bubble page
+
+[contact_form]
+
+## Page: Profile
+
+3 tabs page
+
+main profile editor form
+
+Qual a difereça no figma dos dois primeiros layouts de profile? Devo considerar o segundo como duplicata?
+
+[cnpj_form] / [bank_account_form]/ [password_form] or [modal_password_form]?
+
+modal confirmação de alteração de senha
+
+## Page: My Documents

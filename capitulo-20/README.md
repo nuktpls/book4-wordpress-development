@@ -1,5 +1,5 @@
 ---
-name: "Pages::Páginas"
+name: "Most Commom Template and Pages::Páginas Comuns"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,76 +12,44 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Pages::Páginas
+# Most Commom Template and Pages::Páginas Comuns
 
-Páginas
+Página Biblioteca
 
-Páginas importantes (URL)
+Página Mídia Kit
 
-- Login
-- Dashboard
-- Service Page
-- Client Request Services
-- Contact Page
-- Profile
-- My Documents
+Página Inicial
 
-## Page: login
+Search
 
-cookie acceptance
+Tax Category
 
-fone mask
+Autor
 
-cpf mask
+404
 
-aceite de termos
+select content
 
-enviar
+The Post page
 
-cadastrar
+Seção de destaque
 
-erros de cadastro
+List Page
 
-fale conosco
+Card
 
-terms modal
+single
 
-## Page: Dashboard
+Service Portifolio Gallery
 
-header
+Pricing
 
-main services
+FAQ
 
-service card (main card)
+News
 
-## Page: Página de Serviço
+Team
 
-showcase three columns
+Contact
 
-## Page: Client Request Services
-
-custom header (header greater height)
-
-main two columns product page
-
-request insurance app
-
-## Page: Contact Page
-
-main two columns bubble page
-
-[contact_form]
-
-## Page: Profile
-
-3 tabs page
-
-main profile editor form
-
-Qual a difereça no figma dos dois primeiros layouts de profile? Devo considerar o segundo como duplicata?
-
-[cnpj_form] / [bank_account_form]/ [password_form] or [modal_password_form]?
-
-modal confirmação de alteração de senha
-
-## Page: My Documents
+Custom Page

@@ -16,14 +16,20 @@ tags: ""
 
 # Frontend
 
-**Possíveis Temas (dev_mod):**
-
 Frontend without myths
+
 Canvas
+
 Design
+
 Brand
+
 Code
+
 Pattern and Standarize
+
 Perfomance
+
 Maintenence
+
 Reusability
