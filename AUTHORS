@@ -5,6 +5,10 @@ autor sujeito: "ele"
 autor contagem: "um"
 autor terminologia: "o"
 autor terminologia _A_O: "ão"
+# PARA COLABORAR
+# ENVIE UMA FEATURE PARA A BRANCH DEVELOP
+# ALTERE OS ARQUIVOS INTERNOS CONFORME DESEJAR
+# ALTERE ESSE ARQUIVO CONFORME REGRAS ABAIXO
 \#\!: "El@"
 autor nome: "Milt@"
 autor sobrenome: "Bolonh@"
