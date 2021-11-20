@@ -1,0 +1,153 @@
+{
+  "folders": [
+    {
+      "name": "Introduction::Introdução",
+      "path": "introducao"
+    }, 
+    {
+      "name": "Capítulo 1 - Frontend::Visual e Estilo do Documento",
+      "path": "capitulo-01"
+    }, 
+    {
+      "name": "Capítulo 2 - ARIA First::Acessibilidade Primeiro",
+      "path": "capitulo-02"
+    }, 
+    {
+      "name": "Capítulo 3 - General Lines::Ordem Geral",
+      "path": "capitulo-03"
+    }, 
+    {
+      "name": "Capítulo 4 - General Layout::Desenhos Necessários",
+      "path": "capitulo-04"
+    }, 
+    {
+      "name": "Capítulo 5 - Slices, Shortcodes and Positions::Recortes, Atalhos e Positions",
+      "path": "capitulo-05"
+    }, 
+    {
+      "name": "Capítulo 6 - Brand Application::Aplicação da Marca",
+      "path": "capitulo-06"
+    }, 
+    {
+      "name": "Capítulo 7 - Standard Layouts::Desenhos Comuns",
+      "path": "capitulo-07"
+    }, 
+    {
+      "name": "Capítulo 8 - Header::Cabeçalho",
+      "path": "capitulo-08"
+    }, 
+    {
+      "name": "Capítulo 9 - Footer::Rodapé",
+      "path": "capitulo-09"
+    }, 
+    {
+      "name": "Capítulo 10 - Main::Principal",
+      "path": "capitulo-10"
+    }, 
+    {
+      "name": "Capítulo 11 - Sidebar::Lateral",
+      "path": "capitulo-11"
+    }, 
+    {
+      "name": "Capítulo 12 - Navigation Menus::Navegação por Sumário",
+      "path": "capitulo-12"
+    }, 
+    {
+      "name": "Capítulo 13 - Modals::Janelas",
+      "path": "capitulo-13"
+    }, 
+    {
+      "name": "Capítulo 14 - WPDB and Req::Banco de Dados WP e Requisições",
+      "path": "capitulo-14"
+    }, 
+    {
+      "name": "Capítulo 15 - Campos Personalizados",
+      "path": "capitulo-15"
+    }, 
+    {
+      "name": "Capítulo 16 - Third Part::Pacotes de Terceiros",
+      "path": "capitulo-16"
+    }, 
+    {
+      "name": "Capítulo 17 - Topology::Topologia",
+      "path": "capitulo-17"
+    }, 
+    {
+      "name": "Capítulo 18 - Post::Postagem",
+      "path": "capitulo-18"
+    }, 
+    {
+      "name": "Capítulo 19 - Pages::Páginas",
+      "path": "capitulo-19"
+    }, 
+    {
+      "name": "Capítulo 20 - Most Commom Template and Pages::Páginas Comuns",
+      "path": "capitulo-20"
+    }, 
+    {
+      "name": "Capítulo 21 - Most Awesome Fx::Efeitos Mais Usados",
+      "path": "capitulo-21"
+    }, 
+    {
+      "name": "Capítulo 22 - Advertise::Anúncios",
+      "path": "capitulo-22"
+    }, 
+    {
+      "name": "Capítulo 23 - Shop::Loja",
+      "path": "capitulo-23"
+    }, 
+    {
+      "name": "Capítulo 24 - Most Commom Components::Componentes Comuns",
+      "path": "capitulo-24"
+    }, 
+    {
+      "name": "Capítulo 25 - Output::Entrega, Retrabalho, Otimização e Performance",
+      "path": "capitulo-25"
+    },
+    {
+      "name": "Root Book",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.fontFamily": "VCR OSD Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.rulers": [80, 120],
+    "editor.formatOnSave": true,
+    "eslint.validate": ["javascript", "javascriptreact"],
+    "editor.renderLineHighlight": "gutter",
+    "editor.tabSize": 2,
+    "terminal.integrated.fontSize": 14,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": false,
+    "javascript.suggest.autoImports": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.renderSideBySide": true,
+    "workbench.sideBar.location": "right",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.arrowParens": "avoid",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Edu4Dev Dark"
+  }
+}

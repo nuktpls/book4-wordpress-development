@@ -1,0 +1,26 @@
+{
+  "name": "book4-wordpress-development",
+  "app name": "Book4Dev - WordPress Development",
+  "version": "0.0.1",
+  "description": "Same as the name.",
+  "keywords": [
+    "edu4dev",
+    "book4dev",
+    "book",
+    "nutpls",
+    "nuktpls-cli",
+    "wordpress",
+    "development",
+    "dev"
+  ],
+  "author": {
+    "email": "miltonbolonha@gmail.com",
+    "name": "Milton Bolonha",
+    "url": "https://edu4.dev"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/nuktpls/book4-wordpress-development",
+    "type": "git"
+  }
+}
