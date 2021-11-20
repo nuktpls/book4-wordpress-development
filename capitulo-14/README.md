@@ -1,5 +1,5 @@
 ---
-name: "Ordem geral"
+name: "WPDB and Req::Banco de Dados WP e Requisições"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,14 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Banco de Dados WP e Requisições
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Banco de Dados
 
-front-end card scss
+Ajax
+
+OAuth/JWT
+
+GraphQL
+
+REST-API

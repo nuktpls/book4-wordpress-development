@@ -10,11 +10,20 @@ descrição WP: "Front-end é."
 descrição W3C: "Front-end é."
 descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
+panorâma histórico: ""
+tags: ""
 ---
 
-# Front End
+# Frontend
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+**Possíveis Temas (dev_mod):**
 
-front-end card scss
+Frontend without myths
+Canvas
+Design
+Brand
+Code
+Pattern and Standarize
+Perfomance
+Maintenence
+Reusability

@@ -1,5 +1,5 @@
 ---
-name: "Ordem geral"
+name: "Slices, Shortcodes and Positions::Recortes, Atalhos e Positions"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,10 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Recortes, Atalhos e Positions
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Criar position: window, hasShadowing
 
-front-end card scss
+Criar blocks de atalhos e rotas/pistas
+
+Criar páginas place holders

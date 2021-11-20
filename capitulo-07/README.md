@@ -1,5 +1,5 @@
 ---
-name: "Ordem geral"
+name: "Standard Layouts::Estruturas Comuns"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,40 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Estruturas Comuns
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Row
 
-front-end card scss
+Header
+
+Footer
+
+Main
+
+Sidebar
+
+Nav Menus
+
+Modals
+
+Aspect ratio image card
+
+Clamping card
+
+Container query card
+
+Deconstructed pancake
+
+Holy grail layout
+
+Line up
+
+Pancake stack
+
+RAM (Repeat, Auto, Minmax)
+
+Sidebar says
+
+Super centered
+
+12-span grid

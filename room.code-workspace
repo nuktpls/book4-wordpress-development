@@ -13,11 +13,11 @@
       "path": "capitulo-02"
     }, 
     {
-      "name": "Capítulo 3 - General Lines::Ordem Geral",
+      "name": "Capítulo 3 - Task Organization::Ordem Geral para a Tarefa",
       "path": "capitulo-03"
     }, 
     {
-      "name": "Capítulo 4 - General Layout::Desenhos Necessários",
+      "name": "Capítulo 4 - General Lines::Linhas Gerais",
       "path": "capitulo-04"
     }, 
     {
@@ -61,7 +61,7 @@
       "path": "capitulo-14"
     }, 
     {
-      "name": "Capítulo 15 - Campos Personalizados",
+      "name": "Capítulo 15 - Custom Fields::Campos Personalizados",
       "path": "capitulo-15"
     }, 
     {
@@ -101,8 +101,16 @@
       "path": "capitulo-24"
     }, 
     {
-      "name": "Capítulo 25 - Output::Entrega, Retrabalho, Otimização e Performance",
+      "name": "Capítulo 25 - Most Commom Components::Componentes Comuns",
       "path": "capitulo-25"
+    }, 
+    {
+      "name": "Capítulo 26 - Most Commom Snippets::Códigos Comuns",
+      "path": "capitulo-26"
+    }, 
+    {
+      "name": "Capítulo 27 - Outputing your work::Entrega, Retrabalho, Otimização e Performance",
+      "path": "capitulo-27"
     },
     {
       "name": "Root Book",

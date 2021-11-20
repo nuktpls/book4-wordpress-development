@@ -1,7 +1,7 @@
 ---
-name: "Ordem geral"
+name: "Ordem Geral para a Tarefa"
 ordem: 3
-rg: "orgem-geral-ptbr-v1"
+rg: "general-lines-ptbr-v1"
 idioma: "PT-BR"
 intenção: "Informações sobre o front-end."
 sumário Prático: "Use o front-end."
@@ -12,9 +12,36 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Task Organization::Ordem Geral para a Tarefa
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Tarefas Padrão Controle de Qualidade
 
-front-end card scss
+Tempo mínimo das Tarefas
+
+Estimativa individual de tempo para cada tarefa
+
+Directory_uri():
+
+css_path
+
+plugin_path
+
+Funcionalidades do Tema
+
+Iniciar o tema
+
+Iniciar versão child
+
+Dummy data
+
+Resolução de conflitos
+
+Guia de posições
+
+Sumários, Chamadas e Atalhos
+
+Arquivos ignorados
+
+Storage
+
+Upload

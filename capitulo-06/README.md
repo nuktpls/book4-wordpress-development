@@ -1,5 +1,5 @@
 ---
-name: "Ordem geral"
+name: "Brand Application::Aplicação da Marca"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,10 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Aplicação da Marca
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Inserção do logo
 
-front-end card scss
+Repetição do logo
+
+Checkup margins e positions da marca

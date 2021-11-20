@@ -1,5 +1,5 @@
 ---
-name: "Ordem geral"
+name: "Footer::Rodapé"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,20 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Ordem geral
+# Rodapé
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Rodapé
 
-front-end card scss
+Footer Columns
+
+Footer Media Icons Links
+
+Footer ACF
+
+Sobre
+
+Contatos
+
+Social
+
+Business Info
