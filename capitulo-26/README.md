@@ -1,5 +1,5 @@
 ---
-name: "Most Commom Snippets::Códigos Comuns"
+name: "Outputing your work::Entrega, Retrabalho, Otimização e Performance"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,9 +12,68 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Most Commom Snippets::Códigos Comuns
+# Outputing your work::Entrega, Retrabalho, Otimização e Performance
 
-The <front-end> HTML element represents the dominant content of the <body> of a document.
-The front-end content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
+Homologação
 
-front-end card scss
+Browserstack
+
+Polyfill
+
+Desenvolver front-end desktop
+
+Desenvolver front-end mobile
+
+Android
+
+Iphone
+
+Safari
+
+IE 11
+
+Publicar em homologação
+
+Validar Páginas no Browserstack
+
+Validação Android
+
+Validação Iphone
+
+Validação Safari
+
+Validação IE 11
+
+º Validação tasks QA (9h) ????
+
+º Publicar em Produção (6h)
+
+Desktop
+
+Browser Desktop
+
+Resolução Desktop
+
+Seu sistema operacional
+
+Windows 10
+
+Chrome (última versão)
+
+Mac Catalina
+
+Safari (última versão)
+
+Mobile
+
+Browser Mobile
+
+Resolução Mobile
+
+Galaxy S20 Android 10
+
+Galaxy Tab S3 (tablet)
+
+iPhone 11 IOS 14
+
+Edge,Chrome (última versão)

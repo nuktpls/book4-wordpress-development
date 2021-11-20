@@ -1,6 +1,6 @@
 ---
-name: "Most Commom Template and Pages::Páginas Comuns"
-ordem: 3
+name: "Most Awesome Fx::Efeitos Mais Usados"
+ordem: 22
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
 intenção: "Informações sobre o front-end."
@@ -12,44 +12,8 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Most Commom Template and Pages::Páginas Comuns
+# Most Awesome Fx::Efeitos Mais Usados
 
-Página Biblioteca
+Border shadow
 
-Página Mídia Kit
-
-Página Inicial
-
-Search
-
-Tax Category
-
-Autor
-
-404
-
-select content
-
-The Post page
-
-Seção de destaque
-
-List Page
-
-Card
-
-single
-
-Service Portifolio Gallery
-
-Pricing
-
-FAQ
-
-News
-
-Team
-
-Contact
-
-Custom Page
+Parallax

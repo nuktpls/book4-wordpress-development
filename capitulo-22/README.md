@@ -1,5 +1,5 @@
 ---
-name: "Most Awesome Fx::Efeitos Mais Usados"
+name: "Advertise::Anúncios"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,8 +12,8 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Most Awesome Fx::Efeitos Mais Usados
+# Advertise::Anúncios
 
-Border shadow
+Anúncios individuais em cada página
 
-Parallax
+anúncios da página

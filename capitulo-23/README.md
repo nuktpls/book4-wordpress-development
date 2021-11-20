@@ -1,5 +1,5 @@
 ---
-name: "Advertise::Anúncios"
+name: "Shop::Loja"
 ordem: 3
 rg: "orgem-geral-ptbr-v1"
 idioma: "PT-BR"
@@ -12,8 +12,4 @@ descrição Google: "Front-end é."
 tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 ---
 
-# Advertise::Anúncios
-
-Anúncios individuais em cada página
-
-anúncios da página
+# Shop::Loja

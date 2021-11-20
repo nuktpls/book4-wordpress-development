@@ -22,7 +22,7 @@ Estimativa individual de tempo para cada tarefa
 
 Directory_uri():
 
-css_path
+Css_path
 
 plugin_path
 
