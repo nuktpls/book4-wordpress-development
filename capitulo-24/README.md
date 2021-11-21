@@ -14,6 +14,30 @@ tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 
 # Most Commom Components::Componentes Comuns
 
+Alert
+
+Button
+
+Carousel
+
+Collapse
+
+Dropdown
+
+Modal
+
+Offcanvas
+
+Popover
+
+ScrollSpy
+
+Tab
+
+Toast
+
+Tooltip
+
 Carrossel com campos dinamicos
 
 Paginação

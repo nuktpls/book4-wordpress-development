@@ -14,6 +14,8 @@ tempo Estimado: "(1 hora, 30 minutos, 5 horas)" <!-- // (min, tool, hard) -
 
 # General Lines::Linhas Gerais
 
+Diretórios principais
+
 Atalhos rápidos
 
 Global General unit ruler em rem px
@@ -49,3 +51,5 @@ Buttons: main menu btn, cta, instantly call
 Export all x@.png/jpg, svg
 
 Sprites
+
+Pastas do Tema
